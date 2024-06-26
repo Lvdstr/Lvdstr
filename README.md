@@ -1,5 +1,6 @@
 # 💫 About Me:
 i am 20 years old
+I am a programming student
 
 
 # 💻 Tech Stack:
