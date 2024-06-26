@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am 20 years old
+i am 20 years old. 
 I am a programming student
 
 
