@@ -1,5 +1,5 @@
 # 💫 About Me:
-eai sou o nathan,tenho 20 anos e estudo programação,ainda<br>nem ideia do que vou fazer especificamente então to me acostumando<br>e aprendendo 
+eai sou o nathan,tenho 20 anos e estudo programação,ainda não tenho uma área ou carreira especifica pra seguir então por enquanto estou apenas estudando e fazendo programas
 
 
 # 💻 Tech Stack:
